@@ -1,0 +1,4 @@
+¿Cual es género de la persona a la que le quieres regalar?;1-mujer,2-hombre
+¿En qué franja de edad se encuentra la persona a la que le quieres regalar?;1-niño,2-joven,3-adulto
+¿Cuál es su color favorito?;1-Azul,2-Amarillo,3-Rojo,4-Blanco,5-Negro,6-Verde,7-Naranja,8-Violeta,9-Rosado,10-Marrón
+Seleccione el estado del producto;1-nuevo,2-usado

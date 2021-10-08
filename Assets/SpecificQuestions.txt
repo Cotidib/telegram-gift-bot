@@ -1,0 +1,69 @@
+garden;¿Le gustan las actividades de jardín?;hamacas, tobogán, cama elástica;1-si,2-no
+garden;¿Le gustan las piscinas?;inflables para piscina;1-si,2-no
+fitness;¿Le gustan las actividades tranquilas?;colchoneta yoga, pelota pilates;1-si,2-no
+indoorSport;¿Le gusta saltar?;cama elástica, cuerda de saltar;1-si,2-no
+fitness;¿Le gusta correr?;caramañola;1-si,2-no
+adventure;¿Le gusta estar en la naturaleza?;carpa camping;1-si,2-no
+adventure;¿Le gustan los deportes de nieve?;campera nieve;1-si,2-no
+adventure;¿Le gusta trekking?;calzado deportivo;1-si,2-no
+ballSport;¿Le gusta el futbol?;pelota de futbol, championes futbol;1-si,2-no
+ballSport;¿Le gusta el basketball?;pelota de basketball, aro de basketball;1-si,2-no
+ballSport;¿Le gusta el rugby?;pelota de rugby;1-si,2-no
+acuaticSport;¿Le gusta nadar?;gorra de natacion,traje de baño, lentes de agua, flotador;1-si,2-no
+acuaticSport;¿Le gusta la pesca?;caña de pescar,anzuelos,reel de pesca;1-si,2-no
+acuaticSport;¿Le gusta realizar deportes en la playa?;tabla de surf,sandboard,kayak;1-si,2-no
+cellphone;¿Le gusta sacar fotos?;tripode para celular;1-si,2-no
+cellphone;¿Pasa muchas horas fuera de su casa?;case,cargador portatil;1-si,2-no
+cellphone;¿Escucha musica en su celular?;auriculares para celular;1-si,2-no
+camera;¿Le gustaria poder sacar fotos profesionales?;camara de fotos profesonial, flash;1-si,2-no
+camera;¿A menudo tiene que transportar su equipo?;mochila para cámara, protector acuático;1-si,2-no
+camera;¿Le gustaria ser un creador de contenido audiovisual?;camara de video;1-si,2-no
+camera;¿Le gusta filmar en la naturaleza?;drone con camara;1-si,2-no
+computer;¿Le gustan los accesorios de computadora?;perifericos para computadora;1-si,2-no
+computer;¿Le gustaria tener las comodidades basicas de una computadora en un producto más compacto?;tablet;1-si,2-no
+console;¿Le gusta jugar en su computadora?;mouse gamer, teclado gamer, auriculares gamer;1-si,2-no
+console;¿Le gusta las consolas de ultima generación?;PS5,XBOX X;1-si,2-no
+console;¿Suele viajar mucho?;nintendo switch;1-si,2-no
+audio;¿Le gusta escuchar música en su casa?;parlante;1-si,2-no
+audio;¿Le gusta escuchar musica mientras esta fuera de su casa?;auriculares;1-si,2-no
+audio;¿Le gusta cantar?;microfono karaoke;1-si,2-no
+audio;¿Le gustan los instrumentos?;bateria, piano electronico, guitarra;1-si,2-no
+video;¿Tiene internet?;chrome cast;1-si,2-no
+video;¿Le gusta ir al cine?;proyector;1-si,2-no
+video;¿Le gusta ver series y peliculas en compañia?;popera;1-si,2-no
+kitchen;¿Le gusta la pastelería?;kit de reposteria;1-si,2-no
+kitchen;¿Utiliza utensilios eléctricos?;batidora, licuadora, procesadora;1-si,2-no
+room;¿Prefiere estudiar o trabajar en formato oficina?;silla, escritorio;1-si,2-no
+room;¿Le gustan los articulos de papeleria?;papeleria;1-si,2-no
+living;¿Le gusta el arte?;cuadros, jarrones, portaretraros;1-si,2-no
+living;¿Le gustan las antiguedades?;antiguedades;1-si,2-no
+living;¿Le gustan las plantas?;plantas decoracion;1-si,2-no
+electricTool;¿Le gusta la herreria?;sierra para metal, prensas, lentes de protección;1-si,2-no
+electricTool;¿Le gusta la carpinteria?;sierra electrica, taladro, destornillador;1-si,2-no
+manualTool;¿Le gusta pintar?;caballete pintura, pinceles, lienzo, brochas;1-si,2-no
+manualTool;¿Le gusta hacer artesanias?;herramientas para artesania;1-si,2-no
+gardenTool;¿Le gusta la jardinería?;palas de jardineria, guantes de jardineria, macetas, tijeras de poda;1-si,2-no
+gardenTool;¿Se encarga de las tareas de jardin?;cortacesped, cortacerco, podadora;1-si,2-no
+robots;¿Le gusta cocinar?;robot de cocina;1-si,2-no
+robots;¿Se encarga de la limpieza del hogar?;aspiradora robot;1-si,2-no
+electronics;¿Le gusta la programación?;arduino, microcontroladores y placas;1-si,2-no
+sportEquipment;¿Le gusta entrenar?;cronometro deportivo, cuerda de saltar, rodilleras;1-si,2-no
+sportEquipment;¿Le gustan los ejercicios de fuerza y resistencia?;pesas, barras para pesas, banco de pesas, barra de dominadas;1-si,2-no
+sportEquipment;¿Le gustan los deportes de contacto?;protectores bucales, vendas, guantes de boxeo, saco de boxeo, paleta de boxeo, punching ball;1-si,2-no
+work;¿Necesita buena iluminación?;lampara de escritorio;1-si,2-no
+work;¿Pasa mucho tiempo sentado?;silla de oficina;1-si,2-no
+work;¿Necesita escribir mucho?;lapicera,bolígrafo parker;1-si,2-no
+moda;¿Asiste a muchos eventos formales?;vestidos, trajes;1-si,2-no
+moda;¿Le gusta la ropa casual?;ropa casual;1-si,2-no
+moda;¿Le gusta vestirse formal?;trajes,smockings;1-si,2-no
+leisure;¿Le gusta usar pijamas?;pijamas, onesie;1-si,2-no
+leisure;¿Le gusta tener calefacción en su cuarto?;estufa eléctrica;1-si,2-no
+leisure;¿Le gusta la ropa exótica?;lencería;1-si,2-no
+sportClothing;¿Juega al basketball?;ropa de basketball;1-si,2-no
+sportClothing;¿Juega al football?;ropa de football;1-si,2-no
+sportClothing;¿Juega al tennis?;ropa de tennis;1-si,2-no
+sportClothing;¿Juega al volleyball?;ropa de volleyball;1-si,2-no
+sportClothing;¿Juega al handball?;ropa de volleyball;1-si,2-no
+smartwatch;¿Le gustan los smartwatch?;smartwatch;1-si,2-no
+earpods;¿Le gustan los auriculares deportivos?;earpods;1-si,2-no
+thermalJacket;¿Le gusta abrigarse y estar cómodo al mismo tiempo?;campera termica;1-si,2-no

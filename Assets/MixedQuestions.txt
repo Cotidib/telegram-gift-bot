@@ -1,0 +1,52 @@
+home;sport;¿Le gusta hacer ejercicio?;fitness;1-si,2-no
+home;sport;¿Dispone un lugares amplios dentro de su casa?;indoorSport;1-si,2-no
+home;sport;¿Tiene jardin?;garden;1-si,2-no
+home;sport;¿Le gustan los juegos de pelota?;ballSport;1-si,2-no
+home;sport;¿Le gustan las aventuras?;adventure;1-si,2-no
+home;sport;¿Le gustan lo deportes en el agua?;acuaticSport;1-si,2-no
+home;technology;¿Pasa muchas horas en su computadora?;computer;1-si,2-no
+home;technology;¿Pasa muchas horas en su celular?;cellphone;1-si,2-no
+home;technology;¿Le gustan los videojuegos?;console;1-si,2-no
+home;technology;¿Le gusta mirar series y peliculas?;video;1-si,2-no
+home;technology;¿Le gusta la fotografia?;camera;1-si,2-no
+home;technology;¿Le gusta la musica?;audio;1-si,2-no
+home;tool;¿Trabaja o estudia en su casa?;room;1-si,2-no
+home;tool;¿Le gusta cocinar?;kitchen;1-si,2-no
+home;tool;¿Le gusta la decoración?;living;1-si,2-no
+home;tool;¿Le gusta hacer trabajos manuales?;electricTool;1-si,2-no
+home;tool;¿Dispone de jardin?;gardenTool;1-si,2-no
+home;tool;¿Es una persona creativa?;manualTool;1-si,2-no
+sport;technology;¿Le gustan los videojuegos?;console;1-si,2-no
+sport;technology;¿Pasa muchas horas en su computadora?;computer;1-si,2-no
+sport;technology;¿Le gusta hacer ejercicio?;fitness;1-si,2-no
+sport;technology;¿Dispone un lugares amplios dentro de su casa?;indoorSport;1-si,2-no
+sport;technology;¿Le gusta la fotografia deportiva?;camera;1-si,2-no
+technology;tool;¿Le gusta mirar series y peliculas?;video;1-si,2-no
+technology;tool;¿Le gusta la fotografia?;camera;1-si,2-no
+technology;tool;¿Le gusta la musica?;audio;1-si,2-no
+technology;tool;¿Pasa muchas horas en su computadora?;computer;1-si,2-no
+technology;tool;¿Le interesa la automatización del hogar?;robots;1-si,2-no
+technology;tool;¿Le gusta la electrónica?;electronics;1-si,2-no
+sport;tool;¿Le gusta hacer ejercicio?;sportEquipment;1-si,2-no
+sport;tool;¿Tiene jardin?;garden;1-si,2-no
+sport;tool;¿Le gustan las aventuras?;adventure;1-si,2-no
+sport;tool;¿Le gusta hacer trabajos manuales?;electricTool;1-si,2-no
+home;clothing;¿Le gusta vestirse bien?;algo;1-si,2-no
+home;clothing;¿Pasa mucho tiempo en su hogar?;algo;1-si,2-no
+home;clothing;¿pregunta37?;algo;1-si,2-no
+home;clothing;¿pregunta38?;algo;1-si,2-no
+home;clothing;¿pregunta39?;algo;1-si,2-no
+sport;clothing;¿Le gusta el football?;algo;1-si,2-no
+sport;clothing;¿Le gusta el basketball?;algo;1-si,2-no
+sport;clothing;¿Le gusta el tenis?;algo;1-si,2-no
+sport;clothing;¿Le gusta hacer yoga?;algo;1-si,2-no
+sport;clothing;¿Le gusta el crossfit?;algo;1-si,2-no
+sport;clothing;¿Le gusta las artes marciales?;algo;1-si,2-no
+tool;clothing;¿Es mecánico?;mechanicalJumpsuit;1-si,2-no
+tool;clothing;¿Trabaja en la construcción?;constructionHelmet;1-si,2-no
+tool;clothing;¿Es policía?;bulletproofVest;1-si,2-no
+tool;clothing;¿Es militar?;militaryUniform;1-si,2-no
+tool;clothing;¿Es médico/a o veterianario/a?;nursingUniform;1-si,2-no
+technology;clothing;¿Le gustan los relojes?;smartwatch;1-si,2-no
+technology;clothing;¿Escuchar música mientras corre?;earpods;1-si,2-no
+technology;clothing;¿Le gusta abrigarse de forma práctica?;thermalJacket;1-si,2-no
